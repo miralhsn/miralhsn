@@ -1,106 +1,112 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=30&center=true&vCenter=true&width=800&lines=Miral+Hasan;Real-Time+AI+Systems+Engineer;Computer+Vision+%7C+YOLO+%7C+Deep+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=30&center=true&vCenter=true&width=800&lines=Miral+Hasan;Real-Time+AI+Systems+Engineer;Computer+Vision+%7C+Machine+Learning" />
 </p>
 
 <p align="center">
-  <b>Building intelligent systems that see, understand, and act in real-time.</b>
+  Building production-oriented AI systems for real-world perception, detection, and decision-making.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miralhsn&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=miralhsn&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <!-- ================= ABOUT ================= -->
 
-## 🧠 About Me
+## About
 
-- 🎯 Focused on **Real-Time AI Systems & Computer Vision**
-- ⚡ Designing **low-latency video processing pipelines**
-- 🧪 Exploring **YOLO, multi-camera analytics, edge AI**
-- 🚀 Goal: Build **production-grade AI systems**
+Focused on designing and building **real-time AI systems** with emphasis on:
+- computer vision pipelines  
+- scalable ML inference systems  
+- deployment-ready AI applications  
+
+Currently working across **vision systems, generative models, and retrieval-based AI**.
+
+---
+
+<!-- ================= EXPERIENCE STYLE ================= -->
+
+## Focus Areas
+
+- Real-time computer vision systems  
+- Multi-stream video analytics  
+- Deep learning model deployment  
+- AI system architecture (end-to-end pipelines)  
 
 ---
 
 <!-- ================= FEATURED ================= -->
 
-## 🔥 Featured Projects
+## Selected Work
 
-### 🛡️ SecureVision — AI Smart Surveillance System  
-AI-powered system that detects suspicious behavior across live camera feeds.  
-- ⚙️ YOLO + OpenCV + Multi-camera pipelines  
-- ⚡ Real-time event detection  
-- 🧠 Context-aware monitoring  
+### SecureVision — Real-Time AI Surveillance System
+System that analyzes live camera feeds to detect and process events in real time.
 
----
-
-### 🧠 RAG Handbook Assistant  
-LLM-powered assistant using Retrieval-Augmented Generation.  
-- ⚙️ LLMs + Vector Search  
-- 📚 Knowledge-grounded responses  
-- 🚀 Practical GenAI system  
+- YOLO-based object detection  
+- Multi-stream video pipeline  
+- Real-time event processing layer  
+- Deployed web interface  
 
 ---
 
-### 🩺 Pneumonia Detection (Medical AI)  
-Deep learning system for chest X-ray classification.  
-- ⚙️ CNN-based model  
-- 🧠 Medical image analysis  
-- 📊 High accuracy predictions  
+### RAG Handbook Assistant
+Retrieval-Augmented Generation system for contextual question answering.
+
+- Vector-based knowledge retrieval  
+- LLM-powered response generation  
+- Domain-specific knowledge grounding  
 
 ---
 
-### 🎨 PixelRNN Image Completion  
-Generative model for image reconstruction.  
-- ⚙️ PixelRNN architecture  
-- 🧠 Sequence modeling  
-- 🔬 Advanced deep learning  
+### Pneumonia Detection from Chest X-Rays
+Medical imaging classification system using deep learning.
+
+- CNN-based architecture  
+- Medical dataset processing  
+- Automated diagnosis support  
 
 ---
 
-<!-- ================= SUPPORT PROJECTS ================= -->
+### PixelRNN Image Completion
+Generative model for sequential image reconstruction tasks.
 
-## ⚡ Additional Projects
-
-- ✋ **Sign Language Recognition** — CNN-based gesture classification  
-- 📰 **Fake News Detection** — NLP classification system  
-- 🔄 **CI/CD Pipeline** — Automated Node.js deployment using GitHub Actions  
+- Pixel-level generative modeling  
+- Autoregressive neural architecture  
+- Deep learning experimentation  
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## Additional Work
 
-## ⚙️ Tech Stack
+- Sign Language Recognition using CNNs  
+- Fake News Detection using NLP classifiers  
+- CI/CD pipeline for Node.js backend systems  
+
+---
+
+<!-- ================= TECH ================= -->
+
+## Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,nodejs,docker,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,nodejs,docker,git,github" />
 </p>
-
----
-
-<!-- ================= FOCUS ================= -->
-
-## 🧠 Focus Areas
-
-- Real-Time Computer Vision Systems  
-- Multi-Camera Surveillance AI  
-- Edge AI Deployment  
-- Scalable ML Pipelines  
 
 ---
 
 <!-- ================= STATS ================= -->
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miralhsn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=miralhsn&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miralhsn&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miralhsn&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -111,19 +117,13 @@ Generative model for image reconstruction.
 
 <!-- ================= CONTACT ================= -->
 
-## 📫 Connect With Me
+## Contact
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/miral-hasan-26353b249">
-    <img src="https://img.shields.io/badge/LinkedIn-Miral%20Hasan-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:miralqureshi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+- LinkedIn: www.linkedin.com/in/miral-hasan-26353b249  
+- Email: miralqureshi@gmail.com  
 
 ---
 
 <p align="center">
-  ⭐ <b>I build systems, not just models.</b>
+  I build systems, not just models.
 </p>
