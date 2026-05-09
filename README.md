@@ -108,7 +108,7 @@ Generative AI model for image reconstruction.
 
 <!-- ================= STATS ================= -->
 
-## GitHub Analytics
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miralhsn&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -116,10 +116,6 @@ Generative AI model for image reconstruction.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miralhsn&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miralhsn&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
