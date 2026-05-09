@@ -1,85 +1,92 @@
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Miral+Hasan;Real-Time+AI+Systems+Engineer;Computer+Vision+%7C+YOLO+%7C+Deep+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=30&center=true&vCenter=true&width=800&lines=Miral+Hasan;Real-Time+AI+Systems+Engineer;Computer+Vision+%7C+YOLO+%7C+Deep+Learning" />
 </p>
 
 <p align="center">
-Building intelligent systems that see, understand, and act in real-time.
+  <b>Building intelligent systems that see, understand, and act in real-time.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miralhsn&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
+
+<!-- ================= ABOUT ================= -->
 
 ## 🧠 About Me
+
 - 🎯 Focused on **Real-Time AI Systems & Computer Vision**
-- ⚡ Building systems that process live video streams with low latency
-- 🧪 Strong interest in **YOLO, multi-camera analytics, and edge AI**
-- 🚀 Goal: Engineer production-ready AI systems, not just models
+- ⚡ Designing **low-latency video processing pipelines**
+- 🧪 Exploring **YOLO, multi-camera analytics, edge AI**
+- 🚀 Goal: Build **production-grade AI systems**
 
 ---
+
+<!-- ================= FEATURED ================= -->
 
 ## 🔥 Featured Projects
 
-### 🛡️ SecureVision — AI Smart Surveillance System 
-AI-powered surveillance system that detects suspicious behavior across live camera feeds in real-time.  
+### 🛡️ SecureVision — AI Smart Surveillance System  
+AI-powered system that detects suspicious behavior across live camera feeds.  
 - ⚙️ YOLO + OpenCV + Multi-camera pipelines  
 - ⚡ Real-time event detection  
-- 🧠 Context-aware monitoring system  
+- 🧠 Context-aware monitoring  
 
 ---
 
-### 🧠 RAG Handbook Assistant (LLM + Retrieval)
-An intelligent assistant that answers queries using Retrieval-Augmented Generation (RAG).  
+### 🧠 RAG Handbook Assistant  
+LLM-powered assistant using Retrieval-Augmented Generation.  
 - ⚙️ LLMs + Vector Search  
-- 📚 Context-aware responses from custom knowledge base  
-- 🚀 Practical GenAI system design  
+- 📚 Knowledge-grounded responses  
+- 🚀 Practical GenAI system  
 
 ---
 
-### 🩺 Pneumonia Detection from Chest X-Rays
-Deep learning system for detecting pneumonia from medical images.  
-- ⚙️ CNN-based architecture  
-- 🧠 Medical image classification  
-- 📊 High accuracy diagnostic predictions  
+### 🩺 Pneumonia Detection (Medical AI)  
+Deep learning system for chest X-ray classification.  
+- ⚙️ CNN-based model  
+- 🧠 Medical image analysis  
+- 📊 High accuracy predictions  
 
 ---
 
-### 🎨 PixelRNN Image Completion
-Generative deep learning model for image completion tasks.  
+### 🎨 PixelRNN Image Completion  
+Generative model for image reconstruction.  
 - ⚙️ PixelRNN architecture  
-- 🧠 Sequence modeling for images  
-- 🔬 Advanced deep learning concepts  
+- 🧠 Sequence modeling  
+- 🔬 Advanced deep learning  
 
 ---
+
+<!-- ================= SUPPORT PROJECTS ================= -->
 
 ## ⚡ Additional Projects
 
-### ✋ Sign Language Digit Recognition
-CNN-based system for recognizing hand gesture digits.  
-- ⚙️ Computer Vision + Deep Learning  
+- ✋ **Sign Language Recognition** — CNN-based gesture classification  
+- 📰 **Fake News Detection** — NLP classification system  
+- 🔄 **CI/CD Pipeline** — Automated Node.js deployment using GitHub Actions  
 
 ---
 
-### 📰 Fake News Detection App
-ML-based system to classify news authenticity.  
-- ⚙️ NLP + Classification models  
-
----
-
-### 🔄 CI/CD Pipeline for Node.js API
-Automated deployment pipeline for backend systems.  
-- ⚙️ GitHub Actions + DevOps practices
-
----
+<!-- ================= TECH STACK ================= -->
 
 ## ⚙️ Tech Stack
-**Languages:** Python  
-**ML:** PyTorch, TensorFlow, YOLO  
-**CV:** OpenCV  
-**Backend:** FastAPI  
-**Tools:** Docker, Git  
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,nodejs,docker,git,github" />
+
+</p>
 
 ---
 
+<!-- ================= FOCUS ================= -->
+
 ## 🧠 Focus Areas
+
 - Real-Time Computer Vision Systems  
 - Multi-Camera Surveillance AI  
 - Edge AI Deployment  
@@ -87,19 +94,36 @@ Automated deployment pipeline for backend systems.
 
 ---
 
-## 📊 GitHub Stats
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miralhsn&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miralhsn&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miralhsn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=miralhsn&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miralhsn&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
+<!-- ================= CONTACT ================= -->
+
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/miral-hasan-26353b249
-- Email: miralqureshi@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miral-hasan-26353b249">
+    <img src="https://img.shields.io/badge/LinkedIn-Miral%20Hasan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:miralqureshi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ *I build systems, not just models.*
+<p align="center">
+  ⭐ <b>I build systems, not just models.</b>
+</p>
