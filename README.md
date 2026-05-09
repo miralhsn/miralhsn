@@ -1,11 +1,11 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=30&center=true&vCenter=true&width=800&lines=Miral+Hasan;Real-Time+AI+Systems+Engineer;Computer+Vision+%7C+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=30&center=true&vCenter=true&width=800&lines=Miral+Hasan;AI+Systems+Engineer;Computer+Vision+%7C+Machine+Learning+%7C+Backend+AI" />
 </p>
 
 <p align="center">
-  Building production-oriented AI systems for real-world perception, detection, and decision-making.
+  Building real-time AI systems that perceive, analyze, and act on data in production environments.
 </p>
 
 <p align="center">
@@ -14,80 +14,99 @@
 
 ---
 
+<!-- ================= IDENTITY ================= -->
+
+## Identity
+
+AI Systems Engineer  
+Computer Vision | Machine Learning | Backend Systems  
+
+---
+
+<!-- ================= EDUCATION ================= -->
+
+## Education
+
+FAST National University of Computer and Emerging Sciences (FAST NUCES), Islamabad  
+BS Software Engineering (2022 – 2026)  
+Focus: Artificial Intelligence, Software Systems, and Machine Learning Engineering  
+
+---
+
 <!-- ================= ABOUT ================= -->
 
 ## About
 
-Focused on designing and building **real-time AI systems** with emphasis on:
-- computer vision pipelines  
-- scalable ML inference systems  
-- deployment-ready AI applications  
+Focused on building **production-level AI systems** with emphasis on:
 
-Currently working across **vision systems, generative models, and retrieval-based AI**.
+- real-time computer vision pipelines  
+- scalable machine learning systems  
+- deployment-ready AI applications  
+- system design for intelligent automation  
 
 ---
 
-<!-- ================= EXPERIENCE STYLE ================= -->
+<!-- ================= FOCUS ================= -->
 
 ## Focus Areas
 
-- Real-time computer vision systems  
-- Multi-stream video analytics  
-- Deep learning model deployment  
-- AI system architecture (end-to-end pipelines)  
+- Real-Time Computer Vision Systems  
+- Multi-Stream Video Analytics  
+- Deep Learning Model Deployment  
+- End-to-End AI System Architecture  
 
 ---
 
 <!-- ================= FEATURED ================= -->
 
-## Selected Work
+## Selected Projects
 
 ### SecureVision — Real-Time AI Surveillance System
-System that analyzes live camera feeds to detect and process events in real time.
+End-to-end AI surveillance system for live video stream analysis.
 
 - YOLO-based object detection  
-- Multi-stream video pipeline  
-- Real-time event processing layer  
-- Deployed web interface  
+- Multi-camera processing pipeline  
+- Real-time event detection system  
+- Deployed web-based monitoring interface  
 
 ---
 
 ### RAG Handbook Assistant
-Retrieval-Augmented Generation system for contextual question answering.
+Retrieval-Augmented Generation system for context-aware Q&A.
 
-- Vector-based knowledge retrieval  
-- LLM-powered response generation  
-- Domain-specific knowledge grounding  
+- Vector database retrieval  
+- LLM-based response generation  
+- Knowledge-grounded AI system  
 
 ---
 
-### Pneumonia Detection from Chest X-Rays
-Medical imaging classification system using deep learning.
+### Pneumonia Detection (Medical AI)
+Deep learning model for medical image classification.
 
-- CNN-based architecture  
-- Medical dataset processing  
-- Automated diagnosis support  
+- CNN architecture  
+- Chest X-ray analysis  
+- Diagnostic prediction system  
 
 ---
 
 ### PixelRNN Image Completion
-Generative model for sequential image reconstruction tasks.
+Generative AI model for image reconstruction.
 
-- Pixel-level generative modeling  
 - Autoregressive neural architecture  
-- Deep learning experimentation  
+- Pixel-level sequence modeling  
+- Deep generative learning  
 
 ---
 
 ## Additional Work
 
-- Sign Language Recognition using CNNs  
-- Fake News Detection using NLP classifiers  
+- Sign Language Recognition (CNN-based vision system)  
+- Fake News Detection (NLP classification system)  
 - CI/CD pipeline for Node.js backend systems  
 
 ---
 
-<!-- ================= TECH ================= -->
+<!-- ================= TECH STACK ================= -->
 
 ## Tech Stack
 
@@ -99,7 +118,7 @@ Generative model for sequential image reconstruction tasks.
 
 <!-- ================= STATS ================= -->
 
-## GitHub Stats
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miralhsn&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -119,8 +138,8 @@ Generative model for sequential image reconstruction tasks.
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/miral-hasan-26353b249  
-- Email: miralqureshi@gmail.com  
+LinkedIn: www.linkedin.com/in/miral-hasan-26353b249  
+Email: miralqureshi@gmail.com  
 
 ---
 
