@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Miral+Hasan;Real-Time+AI+Systems+Engineer;Computer+Vision+%7C+YOLO+%7C+Deep+Learning" />
+</p>
 <h1 align="center"> Miral Hasan</h1>
 <h3 align="center">Real-Time AI Systems Engineer | Computer Vision</h3>
 
