@@ -49,9 +49,9 @@ Focused on building **production-level AI systems** with emphasis on:
 
 <!-- ================= FEATURED ================= -->
 
-## Selected Projects
+## Projects
 
-### SecureVision — Real-Time AI Surveillance System
+### SecureVision - Real-Time AI Surveillance System
 End-to-end AI surveillance system for live video stream analysis.
 
 - YOLO-based object detection  
