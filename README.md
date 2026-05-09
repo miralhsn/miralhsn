@@ -16,20 +16,10 @@
 
 <!-- ================= IDENTITY ================= -->
 
-## Identity
+AI Systems Engineer | Computer Vision | Machine Learning | Backend Systems
 
-AI Systems Engineer  
-Computer Vision | Machine Learning | Backend Systems  
-
----
-
-<!-- ================= EDUCATION ================= -->
-
-## Education
-
-FAST National University of Computer and Emerging Sciences (FAST NUCES), Islamabad  
-BS Software Engineering (2022 – 2026)  
-Focus: Artificial Intelligence, Software Systems, and Machine Learning Engineering  
+BS Software Engineering, 2022–2026 (FAST NUCES Islamabad)
+Focused on real-time AI systems, computer vision pipelines, and ML engineering.
 
 ---
 
