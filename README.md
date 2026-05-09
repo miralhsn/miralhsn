@@ -17,27 +17,55 @@ Building intelligent systems that see, understand, and act in real-time.
 
 ## 🔥 Featured Projects
 
-### 🔹 SecureVision
-AI-powered surveillance system that detects suspicious behavior in real-time across multiple camera feeds.  
-- ⚙️ YOLO + OpenCV + Parallel Processing  
-- ⚡ Real-time detection pipeline  
-- 🧠 Context-aware event detection  
+### 🛡️ SecureVision — AI Smart Surveillance System 
+AI-powered surveillance system that detects suspicious behavior across live camera feeds in real-time.  
+- ⚙️ YOLO + OpenCV + Multi-camera pipelines  
+- ⚡ Real-time event detection  
+- 🧠 Context-aware monitoring system  
 
 ---
 
-### 🔹 Real-Time Object Detection System
-High-performance object detection system optimized for live video streams.  
-- 📊 Achieves real-time FPS performance  
-- ⚙️ YOLOv8 + OpenCV  
-- 🚀 Optimized inference pipeline  
+### 🧠 RAG Handbook Assistant (LLM + Retrieval)
+An intelligent assistant that answers queries using Retrieval-Augmented Generation (RAG).  
+- ⚙️ LLMs + Vector Search  
+- 📚 Context-aware responses from custom knowledge base  
+- 🚀 Practical GenAI system design  
 
 ---
 
-### 🔹 AI Analytics Dashboard
-Backend-powered ML analytics system with visualization.  
-- ⚙️ FastAPI + ML models  
-- 📊 Real-time insights  
-- 🔗 API-driven architecture  
+### 🩺 Pneumonia Detection from Chest X-Rays
+Deep learning system for detecting pneumonia from medical images.  
+- ⚙️ CNN-based architecture  
+- 🧠 Medical image classification  
+- 📊 High accuracy diagnostic predictions  
+
+---
+
+### 🎨 PixelRNN Image Completion
+Generative deep learning model for image completion tasks.  
+- ⚙️ PixelRNN architecture  
+- 🧠 Sequence modeling for images  
+- 🔬 Advanced deep learning concepts  
+
+---
+
+## ⚡ Additional Projects
+
+### ✋ Sign Language Digit Recognition
+CNN-based system for recognizing hand gesture digits.  
+- ⚙️ Computer Vision + Deep Learning  
+
+---
+
+### 📰 Fake News Detection App
+ML-based system to classify news authenticity.  
+- ⚙️ NLP + Classification models  
+
+---
+
+### 🔄 CI/CD Pipeline for Node.js API
+Automated deployment pipeline for backend systems.  
+- ⚙️ GitHub Actions + DevOps practices
 
 ---
 
